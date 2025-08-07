@@ -21,7 +21,7 @@ export const SubmitButton = () => {
     setIsLoading(true);
     try {
       const response = await fetch(
-        "https://vectorshift-assignment.onrender.com/pipelines/parse",
+        "http://localhost:8000/pipelines/parse",
         {
           method: "POST",
           headers: {
