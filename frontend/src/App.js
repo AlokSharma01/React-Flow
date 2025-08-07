@@ -12,9 +12,9 @@ function App() {
             <div className="flex items-center justify-between">
               <div className="flex items-center space-x-3">
                 <div className="w-8 h-8 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">VS</span>
+                  <span className="text-white font-bold text-sm">RF</span>
                 </div>
-                <h1 className="text-white text-xl font-bold">VectorShift Studio</h1>
+                <h1 className="text-white text-xl font-bold">React Flow Studio</h1>
               </div>
               <div className="text-white/60 text-sm">
                 AI Pipeline Builder

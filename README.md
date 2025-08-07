@@ -1,4 +1,4 @@
-# VectorShift Studio - AI Pipeline Builder
+
 
 A modern, beautiful AI pipeline builder with a sleek dark theme and glassmorphism design. This project provides a flexible and reusable node abstraction for building complex AI workflows.
 
@@ -119,10 +119,6 @@ The backend will start on `http://localhost:8000`
 - [ ] Mobile-responsive design improvements
 - [ ] Dark/light theme toggle
 - [ ] Custom node creation interface
-
-## 📝 License
-
-This project is part of the VectorShift Frontend Technical Assessment.
 
 
 
